@@ -1,11 +1,51 @@
-/* ========== GLOBAL STYLES ============ */
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700|Arimo:400,700);
+/* ======== GLOBAL STYLES ======== */
+
+@import url(https://fonts.googleapis.com/css?family=Poppins:700,500|Cinzel:900);
+
+/*font-family: 'Poppins', sans-serif;*/
+/*font-family: 'Cinzel', serif;*/
+
+html, body {
+    width:100%;
+    height:100%;
+    margin:0px;
+    padding:0px;
+}
+
+body {
+    background-color:#F1F1F1;
+    font-family: 'Source Sans Pro', Trebuchet MS, sans-serif;
+    font-size:16px;
+}
+
+h1, h2, h3 {
+    margin:0px;
+    padding:0px;
+    color:#8DC63F; /*LIME GREEN COLOR */
+}
+
+p {
+    margin: 15px 0px;
+}
+
+b, strong {
+    color:#8DC63F;
+}
+
+a {
+    color:#8DC63F;
+    text-decoration:none;
+}
+
+a:hover {
+    color:#FF7900; /* THUNDER CAT ORANGE */
+}
 
 
-/* HEADER STYLES */
 
 
-/* MAIN BODY STYLES */
 
 
-/* FOOTER STYLES */
+
+
+
